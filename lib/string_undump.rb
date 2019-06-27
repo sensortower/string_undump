@@ -1,4 +1,4 @@
-require_relative 'string_undump/string_undump.so'
+require 'string_undump/string_undump.so'
 
 class String
   def undump_badly
